@@ -23,3 +23,21 @@ Mutual exclusion is the basic idea of the problem; the dining philosophers creat
 There exists many solution to this philosophers dilemma but most of them require a lot of computing resources like the solution with a monitor.
 
 The easiest solution is the one with a resource vector or resource hierarchy and just number the 5 forks and program each philosopher to always take the fork with the lowest number first. This way all philosophers will take the right fork first except one who will first grab to the left one. 
+
+Donate
+======
+
+You can support [contributors](https://github.com/KingIsulgard/Java-Dining-Philosophers/graphs/contributors) of this project individually. Every contributor is welcomed to add his/her line below with any content. Ordering shall be alphabetically by GitHub username.
+
+Please consider a small donation. It would make me really happy.
+
+* [@KingIsulgard](https://github.com/KingIsulgard): <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HQE64D8RQGPLC"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="[paypal]" /></a> !
+
+License and Warranty
+====================
+
+The license for the code is included with the project; it's basically a BSD license with attribution.
+
+You're welcome to use it in commercial, closed-source, open source, free or any other kind of software, as long as you credit me appropriately.
+
+The code comes with no warranty of any kind. I hope it'll be useful to you (it certainly is to me), but I make no guarantees regarding its functionality or otherwise.
